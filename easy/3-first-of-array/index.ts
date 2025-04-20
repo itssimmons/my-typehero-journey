@@ -1,0 +1,1 @@
+type First<T extends Array<any>> = T extends [infer F, ...infer R] ? F : never
