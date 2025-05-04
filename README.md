@@ -1,6 +1,8 @@
+![TypeHero Logo](https://github.com/user-attachments/assets/fa66f74f-ae86-45dd-a634-4483b46ba481)
+
 # My TypeHero Journey
 
-These are all my solutions on the [https://typehero.dev](typehero.dev) challenges so far, feel free to suggest, check or collab with your opinion.
+These are all my solutions on the [typehero.dev](https://typehero.dev/explore) challenges so far, feel free to suggest, check or collab with your opinion.
 
 ## Project Structure
 
