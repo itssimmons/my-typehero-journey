@@ -1,4 +1,4 @@
-![TypeHero Logo](https://github.com/user-attachments/assets/fa66f74f-ae86-45dd-a634-4483b46ba481)
+![TypeHero Logo](https://github.com/user-attachments/assets/d271c0e0-8544-4894-9e17-cc97219c6aa5)
 
 # My TypeHero Journey
 
@@ -20,6 +20,8 @@ root
 └── 📁 master/ (Great for Masters [17])
 ```
 
-## Last README update
+## Last "README" update
+<p>
+  04/05/2025 (GMT-3)&nbsp;<img width=20 src=https://www.fg-a.com/flags/argentina-flag-animated-2.gif />
+</p>
 
-04/05/2025 (GMT-3) 🇦🇷
